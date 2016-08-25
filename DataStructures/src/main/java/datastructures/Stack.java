@@ -3,9 +3,9 @@ package datastructures;
 import java.util.Arrays;
 
 /**
- * Created by Admin on 2016.08.25..
+ * Created by Tivadar Bocz on 2016.08.25..
  */
-public class Stack<T>/* implements  IStack*/ {
+public class Stack<T> {
 
     private T[] elements;
 
